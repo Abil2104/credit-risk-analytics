@@ -1,4 +1,4 @@
-# Credit Risk Analytics and Monitoring Platform
+# Credit Risk Analytics Platform
 ### Data Engineering & Continuous Auditing Interface
 
 An interactive financial data engineering application built to process large historical credit distributions, optimize backend analytics, and execute continuous automated data auditing.
